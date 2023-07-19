@@ -1,0 +1,155 @@
+@media screen and (max-width:600px) {
+     .logo-manu-section{
+        flex-direction: column;
+    }
+
+    .head-manu-section ul{
+        flex-direction: column;
+        gap:20px;
+        margin:auto;
+    }
+
+    .logo-section{
+        margin:auto;
+    }
+
+    .banar-section{
+        flex-direction: column-reverse;
+width: 70%;
+margin:auto;
+    }
+    .game-card{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        margin:auto;
+        display: block;
+    }
+
+    .game-play-section {
+        
+        flex-direction: column;
+       
+        
+    }
+
+    .game-conttent {
+        width: 100%;
+        
+        margin-top: 100px;
+        
+    }
+
+
+    .game-conttent h2{
+        text-align: center;
+    }
+
+    .img-section{
+        margin:auto;
+
+    }
+
+
+.game-icon{
+    flex-wrap: wrap;
+}
+
+.icon-2{
+    flex-wrap: wrap;
+}
+
+
+.banar-left{
+    margin:auto;
+     width:100%;
+
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:601px) and (max-width:900px) {
+
+    .logo-manu-section{
+        flex-direction: column;
+    }
+
+    .head-manu-section ul{
+        flex-direction: column;
+        gap:20px;
+        margin:auto;
+    }
+
+    .logo-section{
+        margin:auto;
+    }
+
+    .banar-section{
+        flex-direction: column-reverse;
+width: 70%;
+margin:auto;
+    }
+
+    .game-card{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        margin:auto;
+        display: block;
+    }
+
+
+
+    .game-play-section {
+        
+        flex-direction: column;
+       
+        
+    }
+
+    .game-conttent {
+        width: 100%;
+        text-align: center;
+        margin-top: 100px;
+        
+    }
+
+    .img-section{
+        margin:auto;
+
+    }
+
+  .game-conttent h2{
+        text-align: center;
+    }
+
+
+
+
+
+
+    
+    
+}
